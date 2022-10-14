@@ -1,0 +1,17 @@
+{{- partial "output-partial.hugo" (dict "base" "header" "page" . "parameter" .) }}
+{{- .Content}}
+
+<ol>
+{{ range .Site.Data.archivo }}
+
+    <li style="color: red;">{{ .name }}</li>
+
+    {{range .channels}}
+
+        <a href="{{.web}}"><img class="inline" src="{{.logo}}" alt="{{.name}}"></a>
+
+    {{end}}
+
+{{end}}
+</ol>
+
