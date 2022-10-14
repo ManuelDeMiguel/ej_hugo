@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seccion1 on Exemple d&#39;utilisation des langues</title>
-    <link>http://example.org/fr/seccion1/</link>
+    <link>https://manueldemiguel.github.io/ej_hugo/fr/seccion1/</link>
     <description>Recent content in Seccion1 on Exemple d&#39;utilisation des langues</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Sep 2022 18:38:58 +0200</lastBuildDate><atom:link href="http://example.org/fr/seccion1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Sep 2022 18:38:58 +0200</lastBuildDate><atom:link href="https://manueldemiguel.github.io/ej_hugo/fr/seccion1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tema1</title>
-      <link>http://example.org/fr/seccion1/tema1/</link>
+      <link>https://manueldemiguel.github.io/ej_hugo/fr/seccion1/tema1/</link>
       <pubDate>Tue, 27 Sep 2022 18:38:58 +0200</pubDate>
-      <guid>http://example.org/fr/seccion1/tema1/</guid>
+      <guid>https://manueldemiguel.github.io/ej_hugo/fr/seccion1/tema1/</guid>
       <description>MIERDA MarkDawn Para Cambiar de parrafo
 dejar una linea en medio
 Enfasis Negrita

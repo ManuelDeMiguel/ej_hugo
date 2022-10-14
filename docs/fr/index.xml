@@ -2,38 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exemple d&#39;utilisation des langues</title>
-    <link>http://example.org/fr/</link>
+    <link>https://manueldemiguel.github.io/ej_hugo/fr/</link>
     <description>Recent content on Exemple d&#39;utilisation des langues</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Sep 2022 18:38:58 +0200</lastBuildDate><atom:link href="http://example.org/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Sep 2022 18:38:58 +0200</lastBuildDate><atom:link href="https://manueldemiguel.github.io/ej_hugo/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seccion1</title>
-      <link>http://example.org/fr/seccion1/</link>
+      <link>https://manueldemiguel.github.io/ej_hugo/fr/seccion1/</link>
       <pubDate>Tue, 27 Sep 2022 18:38:58 +0200</pubDate>
-      <guid>http://example.org/fr/seccion1/</guid>
+      <guid>https://manueldemiguel.github.io/ej_hugo/fr/seccion1/</guid>
       <description>Titulo 1 de la sección Esta sección 1 encontraras</description>
     </item>
     <item>
       <title>Descargas</title>
-      <link>http://example.org/fr/descargas/</link>
+      <link>https://manueldemiguel.github.io/ej_hugo/fr/descargas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/fr/descargas/</guid>
+      <guid>https://manueldemiguel.github.io/ej_hugo/fr/descargas/</guid>
       <description>Aquí veremos descargas Imágenes chulas descarga (1).jpeg (3 ko) descarga (2).jpeg (3 ko) descarga.jpeg (6 ko) Muy chulas ademas</description>
     </item>
     <item>
       <title>Seccion2</title>
-      <link>http://example.org/fr/seccion2/</link>
+      <link>https://manueldemiguel.github.io/ej_hugo/fr/seccion2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/fr/seccion2/</guid>
+      <guid>https://manueldemiguel.github.io/ej_hugo/fr/seccion2/</guid>
       <description></description>
     </item>
     <item>
       <title>Seccion3</title>
-      <link>http://example.org/fr/seccion3/</link>
+      <link>https://manueldemiguel.github.io/ej_hugo/fr/seccion3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/fr/seccion3/</guid>
+      <guid>https://manueldemiguel.github.io/ej_hugo/fr/seccion3/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Seccion1</title>
+      <link>https://manueldemiguel.github.io/ej_hugo/fr/hola/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://manueldemiguel.github.io/ej_hugo/fr/hola/</guid>
+      <description>Titulo 1 de la sección Esta sección 1 encontraras</description>
     </item>
   </channel>
 </rss>

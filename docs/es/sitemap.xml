@@ -1,154 +1,172 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/seccion1/</loc>
+    <loc>https://manueldemiguel.github.io/ej_hugo/seccion1/</loc>
     <lastmod>2022-10-04T19:54:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/seccion1/"
+                href="https://manueldemiguel.github.io/ej_hugo/en/seccion1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/seccion1/"
+                href="https://manueldemiguel.github.io/ej_hugo/fr/seccion1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/seccion1/"
+                href="https://manueldemiguel.github.io/ej_hugo/seccion1/"
                 />
   </url>
   <url>
-    <loc>http://example.org/descargas/</loc>
+    <loc>https://manueldemiguel.github.io/ej_hugo/descargas/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/descargas/"
+                href="https://manueldemiguel.github.io/ej_hugo/en/descargas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/descargas/"
+                href="https://manueldemiguel.github.io/ej_hugo/fr/descargas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/descargas/"
+                href="https://manueldemiguel.github.io/ej_hugo/descargas/"
                 />
   </url>
   <url>
-    <loc>http://example.org/seccion2/</loc>
+    <loc>https://manueldemiguel.github.io/ej_hugo/seccion2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/seccion2/"
+                href="https://manueldemiguel.github.io/ej_hugo/en/seccion2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/seccion2/"
+                href="https://manueldemiguel.github.io/ej_hugo/fr/seccion2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/seccion2/"
+                href="https://manueldemiguel.github.io/ej_hugo/seccion2/"
                 />
   </url>
   <url>
-    <loc>http://example.org/seccion3/</loc>
+    <loc>https://manueldemiguel.github.io/ej_hugo/seccion3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/seccion3/"
+                href="https://manueldemiguel.github.io/ej_hugo/en/seccion3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/seccion3/"
+                href="https://manueldemiguel.github.io/ej_hugo/fr/seccion3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/seccion3/"
+                href="https://manueldemiguel.github.io/ej_hugo/seccion3/"
                 />
   </url>
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://manueldemiguel.github.io/ej_hugo/hola/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://manueldemiguel.github.io/ej_hugo/en/hola/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://manueldemiguel.github.io/ej_hugo/fr/hola/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://manueldemiguel.github.io/ej_hugo/hola/"
+                />
+  </url>
+  <url>
+    <loc>https://manueldemiguel.github.io/ej_hugo/</loc>
     <lastmod>2022-10-04T19:54:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://manueldemiguel.github.io/ej_hugo/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/"
+                href="https://manueldemiguel.github.io/ej_hugo/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/"
+                href="https://manueldemiguel.github.io/ej_hugo/"
                 />
   </url>
   <url>
-    <loc>http://example.org/seccion1/tv/</loc>
+    <loc>https://manueldemiguel.github.io/ej_hugo/seccion1/tv/</loc>
     <lastmod>2022-10-04T19:54:27+02:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/seccion1/tema1/</loc>
+    <loc>https://manueldemiguel.github.io/ej_hugo/seccion1/tema1/</loc>
     <lastmod>2022-09-27T18:38:58+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/seccion1/tema1/"
+                href="https://manueldemiguel.github.io/ej_hugo/en/seccion1/tema1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/seccion1/tema1/"
+                href="https://manueldemiguel.github.io/ej_hugo/fr/seccion1/tema1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/seccion1/tema1/"
+                href="https://manueldemiguel.github.io/ej_hugo/seccion1/tema1/"
                 />
   </url>
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://manueldemiguel.github.io/ej_hugo/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://manueldemiguel.github.io/ej_hugo/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/categories/"
+                href="https://manueldemiguel.github.io/ej_hugo/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/categories/"
+                href="https://manueldemiguel.github.io/ej_hugo/categories/"
                 />
   </url>
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://manueldemiguel.github.io/ej_hugo/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://manueldemiguel.github.io/ej_hugo/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/tags/"
+                href="https://manueldemiguel.github.io/ej_hugo/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/tags/"
+                href="https://manueldemiguel.github.io/ej_hugo/tags/"
                 />
   </url>
 </urlset>
