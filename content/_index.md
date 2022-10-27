@@ -1,8 +1,8 @@
-+++
-archetype = "chapter"
-title = "Seccion1"
-weight = 1
-+++
+---
+title: "Pagina Principal"
+date: 2022-10-25T20:45:24+02:00
+draft: false
+---
 
 
 ## Hola
